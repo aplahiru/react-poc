@@ -2,10 +2,7 @@
 React Proof Of Concepts
 
 ### Prerequisites
-* Install [NodeJS](https://nodejs.org/en/download/) and :
-```bash
-npm install -g http-server
-```
+* Install [NodeJS](https://nodejs.org/en/download/) :
 
 ### Installation
 Clone the repo: 
