@@ -11,7 +11,7 @@ Fork the repo:
 Clone the repo: 
 
 ### Select Project
-Clone the repo: 
+Open terminal and navigate to the project folder: 
 ```bash
 cd <select-project>
 ```
