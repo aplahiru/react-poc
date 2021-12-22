@@ -9,13 +9,13 @@ function Home() {
                     <Link to={"/"}>Home</Link>
                 </li>
                 <li>
-                    <Link to={"/dashboard"}>Dashboard</Link>
+                    <Link to={"dashboard"}>Dashboard</Link>
                 </li>
                 <li>
-                    <Link to={"/users"}>Users</Link>
+                    <Link to={"users"}>Users</Link>
                 </li>
                 <li>
-                    <Link to={"/products"}>Products</Link>
+                    <Link to={"products"}>Products</Link>
                 </li>
             </ul>
             <h1>Home Component</h1>
