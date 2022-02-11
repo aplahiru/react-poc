@@ -5,12 +5,13 @@ React Proof Of Concepts
 * Install [NodeJS](https://nodejs.org/en/download/) :
 
 ### Installation
+
+Fork the repo:
+
 Clone the repo: 
-```bash
-git clone https://github.com/aplahiru/react-poc.git
-```
+
 ### Select Project
-Clone the repo: 
+Open terminal and navigate to the project folder: 
 ```bash
 cd <select-project>
 ```
